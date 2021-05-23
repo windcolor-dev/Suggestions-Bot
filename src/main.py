@@ -1,7 +1,11 @@
 import discord
-        # Replace this with your bot's token
+# Replace this with your bot's token
 token = YourTokenHere
-color = 0x3498db         # Replace this with your suggestions channel id
+
+# For information on color please see color-info.txt
+color = 0x3498db        
+
+ # Replace this with your suggestions channel id
 suggestions_channel_id = YourSuggestionsChannelID
 
 client = discord.Client()
