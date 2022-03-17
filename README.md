@@ -9,5 +9,5 @@ A simple suggestions bot written with the discord.py library.
 
 # Note
 
-Please disable the permission of adding reactions to members in the suggestions
+Please disable the permission of adding reactions to messages in the suggestions
 channel so that they can only add reactions for voting.
